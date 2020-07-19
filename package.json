@@ -26,7 +26,7 @@
   "devDependencies": {
     "cfenv": "^1.2.2",
     "js-yaml": "^3.13.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "logstash": "^3.0.0",
     "mongodb": "^3.5.3"
   }
